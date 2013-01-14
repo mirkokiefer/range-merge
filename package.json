@@ -1,0 +1,15 @@
+{
+  "name": "range-merge",
+  "version": "0.0.1",
+  "description": "merge range-maps",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": "",
+  "author": "Mirko Kiefer <mail@mirkokiefer.com>",
+  "license": "BSD",
+  "dependencies": {
+    "underscore": "~1.4.3"
+  }
+}
